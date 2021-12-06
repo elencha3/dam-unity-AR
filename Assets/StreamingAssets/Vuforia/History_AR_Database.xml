@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Fuego" size="10.000000 5.625000" />
+    <ImageTarget name="JuicioFinal" size="10.000000 11.008333" />
+    <ImageTarget name="1-Antiguo-Egipto" size="10.000000 7.080000" />
+    <ImageTarget name="cuadro-la-libertad-guiando-al-pueblo-og" size="10.000000 5.250000" />
+  </Tracking>
+</QCARConfig>
